@@ -1,0 +1,15 @@
+ol {
+  border: 1px solid #ccc;
+  width: 1000px;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
+
+ol li {
+  list-style-type: decimal;
+  margin: 20px 0  20px 2em;
+}
+
+ol li .flex {
+  display: flex;
+}
